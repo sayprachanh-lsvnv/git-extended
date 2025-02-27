@@ -1,0 +1,14 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for education purposes",
+  "main": "index.js",
+  "repository": "https://github.com/sayprachanh-lsvnv/git-extended.git",
+  "author": "Sayprachanh Luangsouvannavong <cocoonlsvnv@gmail.com>",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  }
+}
